@@ -1,5 +1,9 @@
 /* FLEXBOX HEADER */
-body
-{
+header {
     display: flex;
+    background-color: aqua;
+}
+
+nav {
+    border-color: black;
 }
